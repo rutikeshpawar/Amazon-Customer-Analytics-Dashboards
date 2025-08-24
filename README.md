@@ -9,8 +9,7 @@ The goal is to demonstrate **data-driven decision-making** through interactive d
 ---
 
 ## 🔹 Live Interactive Dashboard
-👉 [View the Interactive Tableau Dashboard on Tableau Public](https://public.tableau.com/)  
-(*Replace this link with your published Tableau Public link*)
+👉 [View the Interactive Tableau Dashboard on Tableau Public](https://public.tableau.com/views/Amazon-Customer-Analytics-Dashboards/CustomerAnalytis-Revenue?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ---
 
