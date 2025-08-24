@@ -3,7 +3,7 @@
 ## 🔹 Overview
 This project analyzes **Amazon sales data (FY 2022-23)** using Tableau. 
 - Note - I have Download from the Kaggle. This Excel file is in the Binary Form. Download Orignal Excel File From Kaggle.
-The dashboards provide insights into **Revenue, Discounts & Orders, and Categorywise Sales**.
+- The dashboards provide insights into **Revenue, Discounts & Orders, and Categorywise Sales**.
 
 ---
 
